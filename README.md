@@ -18,7 +18,6 @@ A aplicação foi desenvolvida como parte da disciplina **Programação para Int
   * Título
   * Autor
   * Ano de publicação
-* Paginação de resultados
 * Tratamento de erros (falha na API, dados inválidos, busca vazia)
 * Layout responsivo (desktop e mobile)
 * Interface estilizada com CSS puro (sem frameworks)
